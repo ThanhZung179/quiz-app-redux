@@ -86,6 +86,10 @@ export default function Questions() {
           <Button variant='contained' fullWidth onClick={handleAnswer}>{name}</Button>
         </Box>
       ))}
+      <Box mt={5}>
+        Score: {score} / {response?.results.length}
+      </Box>
+
     </Box>
   )
 }
