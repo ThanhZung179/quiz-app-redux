@@ -1,7 +1,6 @@
 # Quiz App Toolkit with Redux and External API
 
-![Quiz App Toolkit](https://link.to.your/quiz-app-image.png) _(You can add an image or logo of your Quiz App Toolkit here)_
-
+Demo: https://quiz-app-toolkit-redux-api.vercel.app/
 ## Description
 
 The Quiz App Toolkit with Redux and External API is a powerful and customizable tool for creating interactive quizzes. This toolkit utilizes Redux for state management and connects to an external API to fetch quiz questions dynamically.
